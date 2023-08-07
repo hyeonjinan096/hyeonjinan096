@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS&logoColor=white" />
+ <img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
+	
 </div>
