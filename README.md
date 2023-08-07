@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DAFBE1&height=160&section=header&text=hj's%20Github&fontSize=50&fontColor=B5B4B4" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDFBCA&height=160&section=header&text=hj's%20Github&fontSize=50&fontColor=B5B4B4" />
 
 <div align=center>
 	<h3> Profile </h3>
