@@ -18,8 +18,8 @@
 	<img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=c&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Java-C0C0C0?style=flat&logo=Conda-Forge&logoColor=white" />
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 	<img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=white"/>
+	<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 </div>
 </div>
 <br><br><br>
