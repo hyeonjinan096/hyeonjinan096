@@ -10,6 +10,7 @@
 </div>
 <div align="center">
 	<h3> Stack </h3>
+	<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=flat" />
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
