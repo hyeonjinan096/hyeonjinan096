@@ -3,7 +3,7 @@
 - Sejong University 2019.03-2024.02
 - Programmers Devcourse - FE 2023.09-2024.03
 - projectCamp - Next.js course 2024.07 ~ 2024.09
-- Kernel360 - 백엔드 심화 캠프 2025.02 ~ 2025.05
+- Kernel360 - 백엔드 심화 캠프 2025.02 ~ 2025.05 - 1st
 
 ---
 
